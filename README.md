@@ -6,7 +6,7 @@ Follow these steps:
 
 ● Create a Restful API using Express that will allow the user to store a list of cars.
 
-○ When the user navigates to ‘http://localhost:8080/api’ an array of car items should be returned.
+○ When the user navigates to ‘http://localhost:3000/api’ an array of car items should be returned.
 
 E.g. of array:[{"id": 1, "make":"Mercedes-Benz", "model": "A-class", "seats": 5}, {"id": 2, "make":"Land Rover", "model": "Defender 90", "seats": 6}]
 
